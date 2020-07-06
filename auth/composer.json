@@ -1,0 +1,9 @@
+{
+  "name": "clown-fish/auth",
+  "description": "auth",
+  "autoload": {
+    "psr-4": {
+      "Auth\\": "src/"
+    }
+  }
+}
